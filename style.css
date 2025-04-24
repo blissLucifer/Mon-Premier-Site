@@ -1,0 +1,21 @@
+body {
+    background-color:#dff4f3;
+  }
+  h1{
+    color:#66BFBF;
+  }
+  h3{
+    color:#ffa500;
+  }
+  img {
+    background-color: green;
+  }
+  img:hover{
+    background-color: gold;
+  }
+img {
+  border-radius: 100%;
+}
+.moi{
+  background-color: green;
+}
